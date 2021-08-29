@@ -77,10 +77,11 @@
   }
   .modal-content {
     padding: 100px 0;
-    text-align: center;
+    text-align: left; //this is for lists
     h2 {
       font-size: 3em;
       margin-bottom: 15px;
+      text-align: center;
     }
     p {
       margin-bottom: 30px;
@@ -98,7 +99,11 @@
       text-align: left;
     }
     img {
-      margin-bottom: 30px;
+      margin-bottom: 20px;
+      margin-top: 0px;
+      max-width: 400px;
+      max-height: 300px;
+      left: 50%;
     }
     button {
       cursor: pointer;

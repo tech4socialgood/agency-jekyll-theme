@@ -22,8 +22,7 @@ en: &DEFAULT_EN
     its limitations, how it has been a part of oppressive systems, and how it could side with the dismantling of such systems. 
     We aim to do this by creating dialogues to critically examine the social, cultural, and political dimensions of digital technologies, 
     as well as to rethink the education, ideology and culture of contemporary technological institutions. 
-    We also work with social good oriented student orgs and non-profits on technical projects that aid the intervention of structural inequities.
-    "
+    We also work with social good oriented student orgs and non-profits on technical projects that aid the intervention of structural inequities. "
     #icon: "fas fa-chevron-circle-down"
     #<img src="https://img.icons8.com/ios/50/000000/circled-down-2.png"/>
     section: mission
@@ -45,14 +44,14 @@ en: &DEFAULT_EN
     section: newsletter
   
   calendar:
-    title: "Events"
+    title: "Upcoming Events"
     section: calendar
 
-  Teams:
+  portfolio:
     title: "Teams"
-    #text: "Learn about different parts of our club below:"
+    text: "Learn about different work we do:"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
 
   # timeline:
@@ -111,7 +110,7 @@ en: &DEFAULT_EN
   #       logo: assets/img/clients/creative-market.jpg
 
   board:
-    title: "EXECUTIVE BOARD"
+    title: "EXECUTIVE BOARD (2020-2021)"
     section: board
     people:
       #- name: "Kay Garland"
@@ -162,7 +161,8 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
+    #legal: "What is this" # Privacy Policy
+    fun-links: "What is this"
     social:
       - url: https://twitter.com/t4sg_umich
         icon: "fab fa-twitter"
