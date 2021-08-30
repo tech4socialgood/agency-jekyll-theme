@@ -49,7 +49,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Teams"
-    text: "Learn about different work we do:"
+    text: "Learn about the different work we do:"
     section: portfolio
     closebutton: "Close"
 
