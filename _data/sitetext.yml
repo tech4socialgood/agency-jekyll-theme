@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Tech 4 Social Good
     text: "@ The University of Michigan Ann Arbor"
-    button: Learn More
-    buttonlink: "#mission"
+    button: Join Us
+    buttonlink: "https://t4sg.typeform.com/to/Az5vb9GU"
 
   mission:
     title: "Our Mission"
@@ -49,7 +49,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Teams"
-    text: "Learn about different work we do:"
+    text: "Learn about the different work we do:"
     section: portfolio
     closebutton: "Close"
 
