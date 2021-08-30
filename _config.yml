@@ -14,7 +14,7 @@
 remote_theme: jekyll-agency
 # theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://tech4socialgood.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Tech 4 Social Good
