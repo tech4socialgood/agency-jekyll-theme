@@ -27,4 +27,4 @@ alt: stock image from unsplash showing a dessert with yoghurt, and strawberry an
 
 **Join us as general members and prepare the next cool byte to present!** &nbsp;
 
-<h4><a href="https://t4sg.typeform.com/to/Az5vb9GU">Apply here</a></h4>
+<h4><a href="https://t4sg.typeform.com/to/Az5vb9GU" target="_blank">Apply here</a></h4> 

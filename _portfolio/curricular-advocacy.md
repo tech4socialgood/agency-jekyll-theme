@@ -22,11 +22,11 @@ In the 2020-2021 school year, the curriculum advocacy team researched and compil
 across all departments that critically rethink technology in the
 broader social context.
 
-Check out the course guide [here](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTS3tjkTO4oTQKSJnFOUOwJo6J-_Gq5DH7b9ue4jxqBKVLtXOfg_7pXb6Gp9GnFjbB_i3if8fdcd9zS/pubhtml).
+Check out the course guide [here](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTS3tjkTO4oTQKSJnFOUOwJo6J-_Gq5DH7b9ue4jxqBKVLtXOfg_7pXb6Gp9GnFjbB_i3if8fdcd9zS/pubhtml){:target="_blank"}.
 
 As a member in the U of M campus, what does being socially responsive mean for you?what are What are your thoughts about modifying the Tech curriculum?
 
-<h4><a href="https://t4sg.typeform.com/to/Az5vb9GU">Join us!</a></h4>
+<h4><a href="https://t4sg.typeform.com/to/Az5vb9GU" target="_blank">Join us!</a></h4>
 
 
 

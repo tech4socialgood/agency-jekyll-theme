@@ -42,4 +42,4 @@ alt: blurred light
 <br>
 Have a topic of interest? Join our weekly meeting to plan an event with the team!
 
-<h4><a href="https://t4sg.typeform.com/to/Az5vb9GU">Apply here</a></h4>
+<h4><a href="https://t4sg.typeform.com/to/Az5vb9GU" target="_blank">Apply here</a></h4>

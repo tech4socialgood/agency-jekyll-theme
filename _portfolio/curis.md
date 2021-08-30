@@ -30,7 +30,7 @@ CURIS - Public Health Advocacy Mission: "CURIS (“cares” in Latin) is a stude
 
 &nbsp;
  
-**We are accepting applications for this project team! [Apply here](https://t4sg.typeform.com/to/Az5vb9GU) before Sept 19, 2021, 11:59 pm EDT**. 
+**We are accepting applications for this project team! [Apply here](https://t4sg.typeform.com/to/Az5vb9GU){:target="_blank"} before Sept 19, 2021, 11:59 pm EDT**. 
 
 Helpful backgrounds: frontend web development, cog sci/psychology/sociology, UX/UI design, product management, Human-centered design process.
 

@@ -22,9 +22,7 @@ Learn more about the [Equitable Internet Initiative](https://detroitcommunitytec
 
 &nbsp;
  
-**We are accepting applications for this project team! [Apply here](https://t4sg.typeform.com/to/Az5vb9GU) before Sept 19, 2021, 11:59 pm EDT**. 
-
-<h4><a href="https://t4sg.typeform.com/to/Az5vb9GU">Apply here</a></h4>
+**We are accepting applications for this project team! [Apply here](https://t4sg.typeform.com/to/Az5vb9GU){:target="_blank"} before Sept 19, 2021, 11:59 pm EDT**. 
 
 Helpful backgrounds: frontend web development, cog sci/psychology/sociology, UX/UI design, product management, Human-centered design process.
 

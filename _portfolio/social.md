@@ -18,14 +18,14 @@ T4SG was founded in the winter semester of 2020, right before when in-person con
 - **#Justgoodthings** and **#Wellness-log** slack channel
 - **Wellness check-ins** and a **wellness month**
 - **Member Slides**: one Google slide that showcase each
-member. Add yours [here](https://docs.google.com/presentation/d/1gMQsJYNQJ90kdwp-c0WfPdEomd_Rg2uPH6wdGMgGBBU/edit#slide=id.gb90a1a0ce6_1_0)! 
+member. Add yours [here](https://docs.google.com/presentation/d/1gMQsJYNQJ90kdwp-c0WfPdEomd_Rg2uPH6wdGMgGBBU/edit){:target="_blank"}! 
 - **Kumospace hangout**
 - **Halloween and Valentine's day hangout**
 - **Communal Grief event**: Processing through contemporary grief while learning the meaning of remembrance and togetherness. We created a communal hope jamboard to remind ourselves of the hopes.
 <div style="text-align:center"><img src="assets/img/portfolio/communal-hope.png" alt="Jamboard showing some of the things that gives us hope, including: trees, log spirals, random act of kindness, turtles, and so on."></div>
 
-**Through hosting events and activities on various platforms, we aim to engage members in the way that suits them the best and normalize "[community care](https://mashable.com/article/community-care-versus-self-care)" as one of the central values moving forward.**
+**Through hosting events and activities on various platforms, we aim to engage members in the way that suits them the best and normalize "[community care](https://mashable.com/article/community-care-versus-self-care){:target="_blank"}" as one of the central values moving forward.**
  
 **Join our community and let us know a social event you'd like to see in the future.**
-<h4><a href="https://t4sg.typeform.com/to/Az5vb9GU">Join the mailing list and/or apply here!</a></h4>
+<h4><a href="https://t4sg.typeform.com/to/Az5vb9GU" target="_blank">Join the mailing list and/or apply here!</a></h4>
 

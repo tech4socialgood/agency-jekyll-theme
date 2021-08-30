@@ -17,5 +17,5 @@ In the past year, we created T4SG T-shirts and stickers for our members to purch
 presence with external partner connections.
 
 Stay tuned for more designs, merches, and freebies in the upcoming year and joing us to create your own version of T4SG!
-<h4><a href="https://t4sg.typeform.com/to/Az5vb9GU">Join us and apply here!</a></h4>
+<h4><a href="https://t4sg.typeform.com/to/Az5vb9GU" target="_blank">Join us and apply here!</a></h4>
 
