@@ -110,9 +110,10 @@ en: &DEFAULT_EN
   #       logo: assets/img/clients/creative-market.jpg
 
   board:
-    title: "EXECUTIVE BOARD (2020-2021)"
-    section: board
-    people:
+    title: "EXECUTIVE BOARD"
+    section: board 
+    text: 2021 - 2022
+    people20-21:
       #- name: "Kay Garland"
       #  role: "Lead Designer"
       #  image: assets/img/team/500x500.jpg
@@ -139,15 +140,57 @@ en: &DEFAULT_EN
         role: "Publicity Chair"
         image: assets/img/team/minna_sq.jpg
       - name: "Stephanie Schouman"
-        role: "Social Chair, Curricular Advocacy Chair"
+        role: "Social & Curricular Advocacy Chair"
         image: assets/img/team/square_steph.jpg
       - name: "Olivia Shulman"
         role: "Project Outreach Chair"
         image: assets/img/team/square_olivia-1.jpg
+    people21-22:
+      #- name: "Kay Garland"
+      #  role: "Lead Designer"
+      #  image: assets/img/team/500x500.jpg
+      #  social:
+      #    - url: https://twitter.com
+      #      icon: fab fa-twitter
+      #    - url: https://facebook.com
+      #      icon: fab fa-facebook-f
+      #    - url: https://linkedin.com
+      #      icon: fab fa-linkedin-in
+      - name: "Minna Au"
+        role:  
+        image: 
+      - name: "Marissa Gordon"
+        role:  
+        image: 
+      - name: "Dora Guo"
+        role:
+        image: 
+      - name: "Sarah Kurata"
+        role:  
+        image:
+      - name: "Tanya Lai"
+        role:  
+        image: 
+      - name: "Annie Li"
+        role:  
+        image: 
+      - name: "Matthew Bilik"
+        role:  
+        image: 
+      - name: "Lydia Tan"
+        role:  
+        image: 
+      - name: "Caroline Slack"
+        role:  
+        image: 
+      - name: "Ceciel Zhong"
+        role:  
+        image: 
+
 
   contact:
     title: "Contact Us"
-    text: "Fill out this form and we'll be in touch shortly!"
+    text: "Fill out this form and we'll be in touch shortly :)"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
