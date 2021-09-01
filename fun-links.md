@@ -8,7 +8,7 @@ background: grey
 	<h2 class="section-heading text-uppercase">Fun(-ish) links</h2>
 </div>
 <br> 
-Congratulations! You discovered a page of random and fun-ish links. All compiled from our slack space. Enjoy!
+Congratulations! You discovered a page of random and fun-ish links, compiled from what memebrs shared in our slack space. Enjoy!
 
 Maybe you wonder [what your face looks like](https://glanceback.info){:target="_blank"} when staring at a laptop.
 
