@@ -26,7 +26,7 @@ CURIS - Public Health Advocacy Mission: "CURIS (“cares” in Latin) is a stude
 **The CURIS project team will use a human-centered approach to design a website that allows the public to learn about what CURIS offers, get involved, and contribute to the organization.**
 &nbsp;
 
-<div style="text-align:center"><img src="assets/img/portfolio/dct-project-eii.png" alt="Image showing the abstraction of equitable internet initiative"></div>
+<!-- <div style="text-align:center"><img src="assets/img/portfolio/dct-project-eii.png" alt="Image showing the abstraction of equitable internet initiative"></div> -->
 
 &nbsp;
  
